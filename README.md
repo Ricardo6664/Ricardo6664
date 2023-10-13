@@ -15,7 +15,7 @@
 [![Ricardo6664 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardo6664)](https://github.com/Ricardo6664/github-readme-stats)
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-[![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)]
+[![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 - Thanks for visiting.
 
 - Enjoy it!! o/
