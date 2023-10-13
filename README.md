@@ -1,9 +1,9 @@
 # Welcome!
-## I'm (Ricardo Santos)!
+## I'm Ricardo Santos!
 
 :computer: I'm an artificial intelligence and devops enthusiast
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Maŕilia-SP/Brazil.
 
 :outbox_tray: 2023 Goals: - Implement a CI/CD pipeline in Docker, progress with scientific initiation and find a new job.
 
@@ -24,4 +24,4 @@
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 - Thanks for visiting.
 
-- Enjoy it!! o/
+- Enjoy it!!
