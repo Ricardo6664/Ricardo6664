@@ -12,7 +12,6 @@
 
 ![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
 ## SO
 ![Red Hat Badge](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
